@@ -123,4 +123,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-export PATH=/home/tarush/bin:/usr/local/bin:/home/tarush/.local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:$HOME/tools/ropstar
+export PATH=/root/bin:/usr/local/bin:/root/.local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:$HOME/tools/ropstar
