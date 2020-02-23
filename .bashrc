@@ -91,6 +91,7 @@ fi
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias python='python3'
 alias s='ls -CF'
 alias finish='bash /opt/finish.sh'
 alias update_ubuntu='sudo apt update && sudo apt upgrade -y'
